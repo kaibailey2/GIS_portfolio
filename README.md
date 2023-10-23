@@ -10,6 +10,7 @@ Project #1: Whole Foods locations in relation to the population.
 
 <br>
 Project #2: Wildfire situation in Washington State.
+
 ![FinalPrintLayout](https://github.com/kaibailey2/GIS_portfolio/assets/148814961/2ac38316-0eef-45a1-8a4f-94179f105d46)
 ![WildfiresFinal](https://github.com/kaibailey2/GIS_portfolio/assets/148814961/6d9e722f-4fa9-4bb5-80bf-49dcd3c8b0c5)
 ![TrendLineGraph](https://github.com/kaibailey2/GIS_portfolio/assets/148814961/c449bea1-4523-4bcb-951d-6220bb691eef)
