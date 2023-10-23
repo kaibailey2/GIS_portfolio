@@ -10,7 +10,9 @@
 ![povertypercentagewhole](https://github.com/kaibailey2/GIS_portfolio/assets/148814961/be5538fb-e054-4a3b-add4-af73808e5aca)
 
 <br>
+
 # Project #2: Wildfire situation in Washington State.
+
 <br>
 
 ![FinalPrintLayout](https://github.com/kaibailey2/GIS_portfolio/assets/148814961/2ac38316-0eef-45a1-8a4f-94179f105d46)
