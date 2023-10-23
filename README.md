@@ -1,6 +1,6 @@
 # GIS_portfolio
 
-# Project #1: Whole Foods locations in relation to the population.
+# Project #1: A Case Study of Whole Foods locations in relation to the population in King County, WA.
 <br>
 
 ![whitepopwhole](https://github.com/kaibailey2/GIS_portfolio/assets/148814961/0a483b6f-ecc2-4f15-80be-1efce977a2da)
@@ -19,3 +19,11 @@
 ![WildfiresFinal](https://github.com/kaibailey2/GIS_portfolio/assets/148814961/6d9e722f-4fa9-4bb5-80bf-49dcd3c8b0c5)
 ![TrendLineGraph](https://github.com/kaibailey2/GIS_portfolio/assets/148814961/c449bea1-4523-4bcb-951d-6220bb691eef)
 ![RCode](https://github.com/kaibailey2/GIS_portfolio/assets/148814961/cb2f9ee3-a199-425d-ac3e-ffbc8c636e93)
+
+<br> 
+
+# Project #3: In Progress: Black Homeownership Post-Pandemic.
+
+<br>
+
+# Project #4: In Progress: An inside look at the Israeli-Palestinian conflict.
