@@ -22,8 +22,8 @@
 
 <br> 
 
-# Project #3: In Progress: Black Homeownership Post-Pandemic.
-
+# Project #3: Black Homeownership and Affordable Housing in Seattle
+https://kaiba.shinyapps.io/final_project/
 <br>
 
 # Project #4: In Progress: An inside look at the Israeli-Palestinian conflict.
