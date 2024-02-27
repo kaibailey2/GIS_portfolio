@@ -26,4 +26,3 @@
 https://kaiba.shinyapps.io/final_project/
 <br>
 
-# Project #4: In Progress: An inside look at the Israeli-Palestinian conflict.
